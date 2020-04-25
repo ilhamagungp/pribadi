@@ -1,0 +1,113 @@
+body {
+    font-family: 'Kanit', 'Roboto', sans-serif;
+    background-color: #000;
+    color: #FFFFFF;
+}
+
+.navbar {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.computer-science {
+    color: #10A87F;
+    opacity: 70%;
+}
+
+.nav-active .nav-link {
+    color: #F36A51 !important;
+}
+
+.kalimat-awal {
+    color: #F36A51 !important;
+    font-family: 'Roboto';
+    font-size: 24px;
+}
+
+.kalimat-tengah {
+    font-weight: 600;
+    font-size: 36px;
+    font-family: 'Kanit';
+}
+
+.paragraf-akhir {
+    font-size: 14px;
+    font-family: 'roboto';
+    font-weight: 200;
+    color: #7B7676;
+}
+
+.btn-cta {
+    width: 160px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #10A87F;
+    opacity: 70%;
+    color: #FFFFFF;
+}
+
+.gambar-iap {
+    opacity: 50%;
+    border-image: auto;
+}
+
+.section-portfolio {
+    padding-top: 150px;
+}
+
+.pg {
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.gambar-portfolio2 {
+    padding-top: 10px;
+    margin-top: 200px;
+}
+
+.section-about {
+    padding-top: 150px;
+}
+
+.iap-about-h2 {
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Roboto';
+}
+
+.iap-about-img {
+    width: 417px;
+    height: 424px;
+    opacity: 50%;
+}
+
+.about-full {
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: 'roboto';
+    color: #ADADAD;
+}
+
+.section-contact {
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+.btn-send {
+    width: 120px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #10A87F;
+    opacity: 90%;
+    color: #FFF;
+}
+
+.footer-down {
+    margin-top: 400px !important;
+    padding: auto;
+    border-top: 1px solid #7B7676;
+}
+
+.footer-color {
+    color: #FFF;
+}
